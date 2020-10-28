@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\bin\Debug\netcoreapp3.1\CountingRockSamples.exe
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\bin\Debug\netcoreapp3.1\CountingRockSamples.deps.json
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\bin\Debug\netcoreapp3.1\CountingRockSamples.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\bin\Debug\netcoreapp3.1\CountingRockSamples.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\bin\Debug\netcoreapp3.1\CountingRockSamples.dll
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\bin\Debug\netcoreapp3.1\CountingRockSamples.pdb
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\obj\Debug\netcoreapp3.1\CountingRockSamples.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\obj\Debug\netcoreapp3.1\CountingRockSamples.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\obj\Debug\netcoreapp3.1\CountingRockSamples.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\obj\Debug\netcoreapp3.1\CountingRockSamples.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\obj\Debug\netcoreapp3.1\CountingRockSamples.dll
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\obj\Debug\netcoreapp3.1\CountingRockSamples.pdb
+C:\Users\monisha.khapali\source\repos\CountingRockSamples\CountingRockSamples\obj\Debug\netcoreapp3.1\CountingRockSamples.genruntimeconfig.cache
